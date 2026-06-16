@@ -25,4 +25,4 @@ Current intern as a Data Scientist in Educational Analytics at Chartiers Valley 
 
 ## Interests
 
-International development, economic policy, education policy, and data-driven decision making
+International development, economic policy, foreign policy, and data-driven decision making
