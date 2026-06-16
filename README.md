@@ -2,7 +2,7 @@
 
 # Hi, I'm Rohan Dhingra
 
-MSPPM Candidate at Carnegie Mellon University with interests in data science, public policy, and international development. Recent bachelor's degree from CMU's Social and Decision Department in Policy and Management.
+MSPPM Candidate at Carnegie Mellon University with interests in data science, public policy, and international development. Recent bachelor's degree from CMU's Social and Decision Science Department in Policy and Management.
 
 Current intern as a Data Scientist in Educational Analytics at Chartiers Valley Primary School, building data-driven systems to support student learning and school performance.
 
